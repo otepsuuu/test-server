@@ -10,3 +10,5 @@ It now includes steps for Github
 
 !edited
 another one
+
+updated readme
